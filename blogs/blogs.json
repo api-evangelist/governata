@@ -1,0 +1,21 @@
+{
+  "repo": "governata",
+  "feeds": [
+    {
+      "source": "https://governata.com/feed/",
+      "feed_url": "https://governata.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://governata.com",
+      "feed_url": "https://governata.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-07-25T15:00:33Z"
+}
